@@ -1,8 +1,8 @@
-# Brayden Thabang Portfolio Website
+# Malungani Thabang Portfolio Website
 
  1. Project Title & Description
 
-*Brayden Thabang Portfolio Website*
+*Malungani Thabang Portfolio Website*
 
 This is a personal portfolio website that showcases my skills, projects, and contact details. It introduces who I am as a developer and highlights my experience and work in a clean and modern interface.
 
